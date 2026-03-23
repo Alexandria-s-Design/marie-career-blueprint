@@ -3,7 +3,14 @@
 ## Published / Accepted
 | Title | Journal/Venue | Status | Date | DOI/Link |
 |-------|-------------|--------|------|----------|
-| *(2 accepted articles - details being gathered from email)* | | Accepted | | |
+| TBD (ICEDS presentation) | ICEDS 2023 Proceedings | Accepted | Mar 2023 | Acceptance letter on file |
+| TBD (GLOBALET presentation, ID: G-1624) | GLOBALET 2022 Proceedings | Accepted | Nov 2022 | Acceptance documents on file |
+
+## In Progress
+| Title | Journal/Venue | Status | Date | Notes |
+|-------|-------------|--------|------|-------|
+| Article based on "I, You, We" framework (Dr. Carlos E. Cortes) | Journal of Educational Administration (Emerald) | Draft | Nov 2024 | Based on dissertation research |
+| AECT CLT 100-Year Book Chapter | AECT Publication | Invited | Jun 2022 | Invitation received, status TBD |
 
 ## USC Doctoral Articles (Publication-Ready)
 | # | Title | Target Journal | Status | Notes |

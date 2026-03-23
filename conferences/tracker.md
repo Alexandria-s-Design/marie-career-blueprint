@@ -3,7 +3,12 @@
 ## Conferences Presented At
 | Conference | Year | Title | Role | Location |
 |-----------|------|-------|------|----------|
-| CAAASA UNITY | 2025/2026 | *(details to be confirmed)* | Presenter | California |
+| CAAASA UNITY | Mar 2026 | AI in Education, STEM, and ModelIt K-12 | Presenter | California |
+| Sister Speaks | Nov 2025 | Appreciative Inquiry Framework (co-presented with Patricia Brent-Sanco) | Co-Presenter | TBD |
+| ICEDS (International Conference on Education and Development Studies) | Mar 2023 | TBD | Accepted Presenter | University of Hilo, Hawaii |
+| GLOBALET (4th Global Conference on Education and Teaching) | Nov 2022 | TBD (Acceptance ID: G-1624) | Accepted Presenter | Virtual |
+| ICFTE (6th International Conference on Future of Teaching and Education) | Oct 2022 | TBD | Speaker | Prague, Czech Republic |
+| L&D Cares Career Growth Summit | Oct 2021 | TBD (recorded, on YouTube) | Presenter | Virtual |
 
 ## Active Submissions
 | Conference | Deadline | Title | Status | Format |
