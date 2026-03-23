@@ -13,7 +13,19 @@
 ## Active Submissions
 | Conference | Deadline | Title | Status | Format |
 |-----------|----------|-------|--------|--------|
-| *(none yet)* | | | | |
+| NAME 2026 (Las Vegas) | Apr 1, 2026 | TBD - Equity/Multicultural Ed | To Submit | Presentation |
+| EDUCAUSE 2026 | Apr 7, 2026 | TBD - AI in Education | To Submit | Presentation |
+| DLAC Ignite 2026 (Atlanta) | Jun 8, 2026 | TBD - Instructional Design | To Submit | Presentation |
+| Open Education Conference 2026 (Virtual) | TBD | TBD - Equity in Open Education | To Submit | Presentation |
+| NAECTE 2026 Virtual Summer Conference | TBD | TBD - DEIB in Teacher Ed | To Submit | Presentation |
+| NAPE National Summit for Educational Equity | TBD | TBD - Women in Ed Leadership | To Submit | Presentation |
+
+## Upcoming Deadlines (Closed - Target for 2027)
+| Conference | 2026 Deadline (Closed) | 2027 Target |
+|-----------|----------------------|-------------|
+| AERA 2026 (Los Angeles, Apr 8-12) | Jul 25, 2025 | Jul 2026 |
+| AECT 2026 (Chicago, Nov 3-7) | Feb 16, 2026 | Feb 2027 |
+| Learning Forward 2026 | Closed | Jun 2026 |
 
 ## Accepted - Upcoming
 | Conference | Date | Title | Format | Location |
