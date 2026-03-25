@@ -13,8 +13,9 @@
 ## Active Submissions
 | Conference | Deadline | Title | Status | Format |
 |-----------|----------|-------|--------|--------|
-| NAME 2026 (Las Vegas) | Apr 1, 2026 | TBD - Equity/Multicultural Ed | To Submit | Presentation |
-| EDUCAUSE 2026 | Apr 7, 2026 | TBD - AI in Education | To Submit | Presentation |
+| NAME 2026 (Las Vegas) | **Apr 1, 2026 🔴** | TBD - Equity/Multicultural Ed | To Submit | Presentation |
+| EDUCAUSE 2026 | **Apr 7, 2026 🔴** | TBD - AI in Education | To Submit | Presentation |
+| EdMedia 2026 (Edinburgh, Scotland) | **Apr 13, 2026 🔴** | TBD - AI in Educational Leadership / Instructional Design | To Submit | Paper/Presentation |
 | DLAC Ignite 2026 (Atlanta) | Jun 8, 2026 | TBD - Instructional Design | To Submit | Presentation |
 | Open Education Conference 2026 (Virtual) | TBD | TBD - Equity in Open Education | To Submit | Presentation |
 | NAECTE 2026 Virtual Summer Conference | TBD | TBD - DEIB in Teacher Ed | To Submit | Presentation |
