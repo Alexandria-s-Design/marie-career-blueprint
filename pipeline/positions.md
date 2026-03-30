@@ -5,7 +5,7 @@
 |------------|----------|------------|----------|--------|------|
 | *(none yet)* | | | | | |
 
-## Positions to Apply To (Researched March 25, 2026)
+## Positions to Apply To
 | Institution | Position | Location | Deadline | Priority | Notes |
 |------------|----------|----------|----------|----------|-------|
 | Florida International University | Open-Rank Tenure-Track — AI and Ethics | Miami, FL | **Apr 5, 2026 🔴** | HIGH | Interdisciplinary AI+ethics; open-rank; Job ID 536924 |
@@ -16,10 +16,13 @@
 | University of Texas at Austin | Asst/Assoc/Full Professor — AI in Learning | Austin, TX | Open until filled | HIGH | Directly AI+education focus; open-rank |
 | University of Idaho | Clinical Faculty — Educational Leadership | Moscow, ID | Open until filled | HIGH | Non-TT; Asst or Assoc rank; Dept of Leadership & Counseling. [Link](https://www.higheredjobs.com/faculty/details.cfm?JobCode=179128263) |
 | National Louis University | Professional Practice Asst/Assoc Professor — Higher Education Leadership | Online/Flexible | Open until filled | HIGH | 10-month Professional Practice appt. [Link](https://www.higheredjobs.com/faculty/details.cfm?JobCode=179044719) |
+| Georgia State University | Professor of Practice — Learning Sciences Innovation & Entrepreneurship | Atlanta, GA | Open until filled | HIGH | Ed.D. accepted; equity focus; curriculum design; Aug 2026 start. Contact: LSfacultysearch@gsu.edu. [Link](https://facultycareers.gsu.edu/postings/6687) |
+| Georgia State University (Robinson College) | Professor of Practice — AI & FinTech | Atlanta, GA | Open until filled | MEDIUM | $150K; posted Mar 24, 2026; 25+ yrs IT/leadership req; stretch but high-visibility. [Link](https://facultycareers.gsu.edu/postings/6790) |
+| Kennesaw State University | Asst Professor — Instructional Technology | Kennesaw, GA | Open until filled | MEDIUM | Tenure-track; AI for Education preferred; K-12 background valued; Aug 2026. Contact: Dr. Jim Wright jwright@kennesaw.edu. [Link](https://careers.insidehighered.com/job/3441715/assistant-professor-of-instructional-technology/) |
 | Utah State University | Professional Practice Asst Professor — School Leadership | Logan, UT | Open/Aug 2026 | MEDIUM | Practice-track non-TT. [Link](https://www.higheredjobs.com/faculty/details.cfm?JobCode=179255417) |
 | NC State — Friday Institute | Research Scholar — AI Education | Raleigh, NC | Open until filled | MEDIUM | AI ed, professional dev, instructional design; strong PM background valued. [Link](https://www.higheredjobs.com/faculty/details.cfm?JobCode=179323715) |
 | University of South Florida | Program Coordinator — Tech Career Accelerator | Tampa, FL | Open until filled | MEDIUM | $65K-$75K; new AI college funded by $40M gift; high-visibility. [Link](https://www.higheredjobs.com/admin/details.cfm?JobCode=179383662) |
-| University of Arkansas | Teaching Asst Professor — Educational Technology | Fayetteville, AR | Open until filled | MEDIUM | AI, XR, learning analytics focus; priority deadline passed |
+| University of Arkansas | Teaching Asst Professor — Educational Technology | Fayetteville, AR | Open until filled | MEDIUM | AI, XR, learning analytics focus; still active March 2026. [Link](https://www.higheredjobs.com/faculty/details.cfm?JobCode=179302350) |
 | CSU Fresno | Lecturer Pool — Educational Leadership | Fresno, CA | Jul 1 / Oct 31 | MEDIUM | CA-based; equity+leadership focus; rolling appts |
 | University of Georgia | Asst Professor — Learning, Design & Technology | Athens, GA | Open until filled | MEDIUM | Tenure-track; priority deadline passed Dec 2025 |
 
